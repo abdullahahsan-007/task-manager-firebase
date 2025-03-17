@@ -9,7 +9,7 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyAaNDSYkfiAa4Clwb7StbW7luyQRHducgE",
+        apiKey: "yourapikey",
         authDomain: "taskmanager-53880.firebaseapp.com",
         projectId: "taskmanager-53880",
         storageBucket: "taskmanager-53880.firebasestorage.app",
